@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+
+<html lang="fa" dir="rtl">
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <meta name="description" content="طراحی وب سایت حرفه‌ای">
+
+    <meta name="keywords" content="طراحی وب سایت، طراحی وب سایت ، طراحی وب سایت حرفه‌ای">
+
+    <meta name="author" content="براد تراورسی">
+
+    <title> Alireza.nasiri_py | خانه</title>
+
+    <link rel="stylesheet" href="./css/style.css">
+
+    <link rel="icon" href="img/favicon.png">
+
+  </head>
+
+  <body>
+
+    <header>
+
+      <div class="container">
+
+        <div id="branding">
+
+          <h1><span class="highlight">Alireza</span>.nasiri_py</h1>
+
+        </div>
+
+        <nav>
+
+          <ul>
+
+            <li class="current"><a href="index.html">خانه</a></li>
+
+            <li><a href="about.html">درباره ما</a></li>
+
+            <li><a href="services.html">خدمات</a></li>
+
+          </ul>
+
+        </nav>
+
+      </div>
+
+    </header>
+
+    <section id="showcase">
+
+      <div class="container">
+
+        <h1>طراحی وب سایت حرفه‌ای </h1>
+
+        <p>Alireza.nasiri_py</p>
+
+      </div>
+
+    </section>
+
+    <section id="newsletter">
+
+      <div class="container">
+
+        <h1>عضویت در خبرنامه</h1>
+
+        <form>
+
+          <input type="email" placeholder="ایمیل خود راوارد کنید..." required>
+
+          <button type="submit" class="button_1">عضویت</button>
+
+        </form>
+
+      </div>
+
+    </section>
+
+    <section id="boxes">
+
+      <div class="container">
+
+        <div class="box">
+
+          <img src="./img/logo_html.png">
+
+          <h3>نشانگر HTML5</h3>
+
+          <p>.</p>
+
+        </div>
+
+        <div class="box">
+
+          <img src="./img/logo_css.png">
+
+          <h3>طراحی استایل CSS3</h3>
+
+          <p>.</p>
+
+        </div>
+
+        <div class="box">
+
+          <img src="./img/logo_brush.png">
+
+          <h3>طراحی گرافیکی</h3>
+
+          <p>.</p>
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <پانویس>
+
+      <p>Alireza.nasiri_py، کپی رایت © 2023</p>
+
+    </footer>
+
+  </body>
+
+</html>
+
+را
